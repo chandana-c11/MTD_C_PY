@@ -1,3 +1,40 @@
 MTD COMPETITIVE PROGRAMMING TRAININGg
 
 DAY1 THURSDAY 06/03/25
+
+
+DAY 2 FRIDAY 07-03-2025
+
+Arithmetic operators: + - * / %
+
+All are binary operators
+Input is number
+Output is number
+Used with infix notation
+To perform any arithmetic operation, DT of both the operands must be same
+Left to right associtivity w.r.t reading the values/expression
+For the calculation to happen, the user/programmer given infix expression must be converted into postfix.
+The operator have different hierarchy (preceene)
+--------------------------------------------------------------------------
+
+Relational operations: > < == != >= <=
+Input is number
+Output is true or false
+Used with infix notation
+
+for int i = 1; i <= 10; i++;
+for int i = 1; i < 11; i++;
+
+[10, 20]
+num >= 10 and num <= 20
+
+(10, 20)
+num > 10 and num < 20
+-------------------------------------------------------------------------------
+
+Logical operators:& && | || !
+i/p is boolean
+o/p is also boolean
+---------------------------------------------
+a=3 b=2 c=-8
+
